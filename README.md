@@ -78,4 +78,4 @@ seq2seq-tf/predict.ipynb
 ``` 
 
 ## Evaluation 
-We use SacreBLEU to compute the accuracy of each approach. The best performance of Transformer network and RNN Encoder-Decoder is respectively 59.0 and 62.5
+We use SacreBLEU to compute the accuracy of each approach. The best performance of Transformer network and RNN Encoder-Decoder is respectively 59.0 and 62.9
