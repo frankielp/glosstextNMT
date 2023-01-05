@@ -1,0 +1,18 @@
+DEBATE ON CASE BREACH DESC-HUMAN RIGHTS , DEMOCRACY AND RULE LAW DEBATE	debates on cases of breaches of human rights , democracy and the rule of law debate 
+APPROVAL MINUTE DESC-PREVIOUS SIT SEE MINUTE	approval of the minutes of the previous sitting see minutes
+CHSTER PUNKT FOLGT DIE ABSTIMMUNG .	als nächster punkt folgt die abstimmung .
+UGANDA BAHAT X-I BILL AND DISCRIMINATION AGAINST LGBT POPULATION	uganda the bahati bill and discrimination against the lgbt population 
+VOTE TIME	voting time
+CORRECTION TO VOTE AND VOTE INTENTION SEE MINUTE	corrections to votes and voting intentions see minutes
+COUNCIL POSITION AT DESC-FIRST READING SEE MINUTE	council positions at first reading see minutes
+DECISION CONCERN DESC-CERTAIN DOCUMENT SEE MINUTE	decisions concerning certain documents see minutes
+DOCUMENT RECEIVE SEE MINUTE	documents received see minutes
+WRITE DECLARATION INCLUDE IN REGISTER RULE 123 SEE MINUTE	written declarations included in the register rule 123 see minutes
+FORWARDING TEXT ADOPT DURING SIT SEE MINUTE	forwarding of texts adopted during the sitting see minutes
+DATE DESC-FORTHCOMING SIT SEE MINUTE	dates of forthcoming sittings see minutes
+NAME YOU WHAT(wh)	What is your name?
+NAME YOU WHAT(wh)	What is your name ?
+NAME YOU WHAT(wh)	What's your name?
+NAME YOU WHAT(wh)	What's your name ?
+EAT APPLE	I eat an apple
+EAT ORANGE	I eat an orange
