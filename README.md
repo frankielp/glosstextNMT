@@ -3,6 +3,31 @@
  The paper proposed some machine translation (MT) models to convert sign language into spoken language. The project focuses on the reimplementation of training the MT model to translate gloss-to-text to spoken language.
  
  ## File Structure
+ ```
+ .
+├── LICENSE
+├── README.md
+├── Transformer
+│   ├── dataset
+│   ├── transformer.ipynb
+│   └── transformer_training.ipynb
+├── data
+│   ├── gloss-text-augmented.txt
+│   ├── gloss-text.txt
+│   └── test.txt
+├── german
+└── seq2seq-tf
+    ├── backtranslation.ipynb
+    ├── backtranslator
+    ├── data_processing.ipynb
+    ├── nmt_with_attention_augmented.ipynb
+    ├── nmt_with_attention_baseline.ipynb
+    ├── predict.ipynb
+    ├── translator
+    └── translator_augmented
+
+29 directories, 82 files
+ ```
  
  ## Table of Content
 - Requirements
@@ -27,16 +52,30 @@ To experiment the adaptability of this approach and make the process more univer
 
 
 ## Training
-In this task we train the dataset solely on Transformer and RNN to compare the result. 
-```sh
-python train.py 
+In this task we train the dataset solely on Transformer and RNN to compare the result.
+
+Transformer
+```
+Transformer/transformer_training.ipynb
+``` 
+
+RNN Encoder-Decoder
+```
+seq2seq-tf/nmt_with_attention_baseline.ipynb
 ``` 
 
 ## Predict
 Translate some sample to demonstrate how the system works.
-```sh
-python classify.py
+
+Transformer
 ```
+Transformer/transformer.ipynb
+``` 
+
+RNN Encoder-Decoder
+```
+seq2seq-tf/predict.ipynb
+``` 
 
 ## Evaluation 
 We use SacreBLEU to compute the accuracy of each approach. The best performance of Transformer network and RNN Encoder-Decoder is respectively 59.0 and 62.5
