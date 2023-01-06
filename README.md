@@ -31,9 +31,6 @@
 - Requirements
 - Dataset
 - Implementation
- + Data preprocessing
- + Training
- + Predict
 - Evaluation
 
 ## Requirements
