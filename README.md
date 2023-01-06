@@ -1,6 +1,7 @@
 # Neural Machine Translation Methods for Sign Language Translation using Transformer and RNN Encoder-Decoder
  This repository provides the reimplement of the experiments described in the paper [Using Neural Machine Translation Methods for Sign Language Translation](https://aclanthology.org/2022.acl-srw.21) (Angelova et al., ACL 2022). 
  
+![header](demo/data.png)
  ## File Structure
  ```
  .
